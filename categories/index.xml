@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 兔子公园的博客</title>
-    <link>tuzi.gihub.io/categories/</link>
+    <link>//rouor.github.io/categories/</link>
     <description>Recent content in Categories on 兔子公园的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
     
-	<atom:link href="tuzi.gihub.io/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="//rouor.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
