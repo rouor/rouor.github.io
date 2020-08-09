@@ -3,23 +3,43 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>//rouor.github.io/post/love/</loc>
-    <lastmod>2020-07-30T11:16:38+08:00</lastmod>
+    <loc>//rouor.github.io/categories/</loc>
+    <lastmod>2020-08-09T23:07:01+08:00</lastmod>
   </url>
   
   <url>
     <loc>//rouor.github.io/post/</loc>
-    <lastmod>2020-07-30T11:16:38+08:00</lastmod>
+    <lastmod>2020-08-09T23:07:01+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//rouor.github.io/post/happy/</loc>
+    <lastmod>2020-08-09T23:07:01+08:00</lastmod>
   </url>
   
   <url>
     <loc>//rouor.github.io/</loc>
+    <lastmod>2020-08-09T23:07:01+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//rouor.github.io/categories/%E7%BA%A2%E8%89%B2%E7%94%9F%E6%B4%BB/</loc>
+    <lastmod>2020-08-09T23:07:01+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//rouor.github.io/post/Hugo%E7%9A%84%E4%BD%BF%E7%94%A8%E5%8F%8A%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/</loc>
     <lastmod>2020-07-30T11:16:38+08:00</lastmod>
   </url>
   
   <url>
-    <loc>//rouor.github.io/post/7292020/</loc>
-    <lastmod>2020-07-29T22:21:20+08:00</lastmod>
+    <loc>//rouor.github.io/tags/</loc>
+    <lastmod>2020-07-30T11:16:38+08:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>//rouor.github.io/tags/%E8%BD%AF%E4%BB%B6%E4%BD%BF%E7%94%A8/</loc>
+    <lastmod>2020-07-30T11:16:38+08:00</lastmod>
   </url>
   
   <url>
@@ -33,20 +53,7 @@
   </url>
   
   <url>
-    <loc>//rouor.github.io/post/2006-04-11-%E7%94%9F%E6%B4%BB%E6%9D%82%E8%AE%B0%E7%9A%84%E5%89%AF%E6%9C%AC/</loc>
-    <lastmod>2006-04-11T22:52:08+00:00</lastmod>
-  </url>
-  
-  <url>
     <loc>//rouor.github.io/draw/</loc>
-  </url>
-  
-  <url>
-    <loc>//rouor.github.io/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>//rouor.github.io/tags/</loc>
   </url>
   
   <url>
@@ -55,10 +62,6 @@
   
   <url>
     <loc>//rouor.github.io/search/</loc>
-  </url>
-  
-  <url>
-    <loc>//rouor.github.io/post/2006-07-03-Film%E6%94%BE%E7%89%9B%E7%8F%AD%E7%9A%84%E6%98%A5%E5%A4%A9%E7%9A%84%E5%89%AF%E6%9C%AC/</loc>
   </url>
   
 </urlset>
