@@ -6,10 +6,19 @@
     <description>Recent content in Categories on 兔子公园的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Thu, 13 Aug 2020 12:27:49 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 14 Aug 2020 20:05:55 +0800</lastBuildDate>
     
 	<atom:link href="//rouor.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>读书乐事</title>
+      <link>//rouor.github.io/categories/%E8%AF%BB%E4%B9%A6%E4%B9%90%E4%BA%8B/</link>
+      <pubDate>Fri, 14 Aug 2020 20:05:55 +0800</pubDate>
+      
+      <guid>//rouor.github.io/categories/%E8%AF%BB%E4%B9%A6%E4%B9%90%E4%BA%8B/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>天人之际</title>
