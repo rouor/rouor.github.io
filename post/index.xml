@@ -6,10 +6,64 @@
     <description>Recent content in Posts on 兔子公园的博客</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>zh-CN</language>
-    <lastBuildDate>Sun, 30 Aug 2020 17:41:54 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 10 Sep 2020 14:10:55 +0800</lastBuildDate>
     
 	<atom:link href="//rouor.github.io/post/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Howtoknow_area</title>
+      <link>//rouor.github.io/post/howtoknow_area/</link>
+      <pubDate>Thu, 10 Sep 2020 14:10:55 +0800</pubDate>
+      
+      <guid>//rouor.github.io/post/howtoknow_area/</guid>
+      <description>如何短期内分析一个学科？ 了解一个领域至少需要三本书：教科书，前沿专著，流行读物。 借助google学术的h指数，某个学科领域中的top100科学家来快速掌握本领域的已有模型。 反常识点：抛弃按照主题检索的方式，而是建立对于一个学科的全局认识。同时不同学科也有不同侧重，比如计算机科学以</description>
+    </item>
+    
+    <item>
+      <title>如何了解一个行业</title>
+      <link>//rouor.github.io/post/%E5%A6%82%E4%BD%95%E4%BA%86%E8%A7%A3%E4%B8%80%E4%B8%AA%E8%A1%8C%E4%B8%9A/</link>
+      <pubDate>Wed, 09 Sep 2020 15:11:03 +0800</pubDate>
+      
+      <guid>//rouor.github.io/post/%E5%A6%82%E4%BD%95%E4%BA%86%E8%A7%A3%E4%B8%80%E4%B8%AA%E8%A1%8C%E4%B8%9A/</guid>
+      <description>重要因素 结构化的认识很重要。 对某领域建立全局认识——对某一领域论文看吐就能获得学者的品味。这就是全局认识。 为什么要系统化学习？ 因为碎片化时代，人的决策很容易被片面的跟风的，直线的信息和结论抓住我们注意力从而影响决策。投资决策时世界上最复杂的博弈：跟宏观趋势、市场波动博弈，跟交易对</description>
+    </item>
+    
+    <item>
+      <title>大数据徐子读书笔记</title>
+      <link>//rouor.github.io/post/%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%A0%94%E7%A9%B6/</link>
+      <pubDate>Mon, 07 Sep 2020 12:05:06 +0800</pubDate>
+      
+      <guid>//rouor.github.io/post/%E5%A4%A7%E6%95%B0%E6%8D%AE%E7%A0%94%E7%A9%B6/</guid>
+      <description>学习概率与统计： 从最容易掌握的spss统计软件入门。然后逐步提升自己的专业水准：从R到python到Matlab 编程类：笨办法学编程，软件随想录。 数学类：首选《普林斯顿数学指南》如何让数学为我所用：掌握一种编程语言：R语言，每个R包都有数学公式师范。最好的学习教材。 大数据的特点 最</description>
+    </item>
+    
+    <item>
+      <title>长江商学院</title>
+      <link>//rouor.github.io/post/%E9%95%BF%E6%B1%9F%E5%95%86%E5%AD%A6%E9%99%A2/</link>
+      <pubDate>Sat, 05 Sep 2020 23:59:17 +0800</pubDate>
+      
+      <guid>//rouor.github.io/post/%E9%95%BF%E6%B1%9F%E5%95%86%E5%AD%A6%E9%99%A2/</guid>
+      <description>参加了长江商学院一天的体验营。不虚此行。 遇到的优秀的人可以借鉴 杨的自我介绍做的非常好。1分钟，说清了我是谁，过往成就，为什么在这里，能为大家做什么贡献。非常有条理性和目标感。三个三以及明确的职业目标。——他的条理性给我留下了非常深刻的印象。干脆、有力、准时。而且他本身气质不凡，很</description>
+    </item>
+    
+    <item>
+      <title>北京秋夜</title>
+      <link>//rouor.github.io/post/%E5%8C%97%E4%BA%AC%E7%A7%8B%E5%A4%9C/</link>
+      <pubDate>Thu, 03 Sep 2020 20:34:48 +0800</pubDate>
+      
+      <guid>//rouor.github.io/post/%E5%8C%97%E4%BA%AC%E7%A7%8B%E5%A4%9C/</guid>
+      <description>晚上就容易伤感吧。 日子让我过的舒缓而空荡荡， 周围的人都匆匆的忙碌着，我很焦虑但也没办法。 还好有自己这方天地，留给自己自然自语，也不知道有没有人看，反正隐藏的很深，收留我的寂寞。 给寂寞一个封印。</description>
+    </item>
+    
+    <item>
+      <title>抖音之战背后的数据战</title>
+      <link>//rouor.github.io/post/%E6%8A%96%E9%9F%B3%E4%B9%8B%E6%88%98%E8%83%8C%E5%90%8E%E7%9A%84%E6%95%B0%E6%8D%AE%E6%88%98/</link>
+      <pubDate>Thu, 03 Sep 2020 08:31:27 +0800</pubDate>
+      
+      <guid>//rouor.github.io/post/%E6%8A%96%E9%9F%B3%E4%B9%8B%E6%88%98%E8%83%8C%E5%90%8E%E7%9A%84%E6%95%B0%E6%8D%AE%E6%88%98/</guid>
+      <description>美国政府为什么要封杀抖音？而且不惜以浪费政府信用为昂贵的代价。 技术软实力 技术竞争的竞技场不在这两个国家，而是在世界其他地方，特别是几十个发展中国家。在竞相赢得下一个十亿用户。这些在第三国市场中使用的应用程序，实际上构成了中美技术软实力和影响力的关键支柱。APP的设计，运营模式都是</description>
+    </item>
     
     <item>
       <title>重访亲友</title>
@@ -30,12 +84,12 @@
     </item>
     
     <item>
-      <title>2020年08月第二周精华记录</title>
+      <title>2020年08月精华记录</title>
       <link>//rouor.github.io/post/2020%E5%B9%B408%E6%9C%88%E7%AC%AC%E4%BA%8C%E5%91%A8%E8%AF%AD%E5%BD%95/</link>
       <pubDate>Thu, 13 Aug 2020 21:35:32 +0800</pubDate>
       
       <guid>//rouor.github.io/post/2020%E5%B9%B408%E6%9C%88%E7%AC%AC%E4%BA%8C%E5%91%A8%E8%AF%AD%E5%BD%95/</guid>
-      <description>因为有信息茧房，硅谷投资人王川在教导我如何做投资时说：要在各行各业，关心一些最高手的观点和思维模型，即使可能你不喜欢他，也要定期查看一下，知道他是怎么想的。这样可以八九不离十的抓住主要矛盾了。移动互联时代，信息就是最重要的资产。获取信息的能力，就是你最重要的能力。如果你只能得到很</description>
+      <description>关于婚姻与心理学领域的论文最好的是：JPSP刊物，代表了这个领域最好的科研水准。 龚虹嘉的投资哲学是三不投资，“做别人不想做、不愿做、不敢做的。” 因为有信息茧房，硅谷投资人王川在教导我如何做投资时说：要在各行各业，关心一些最高手的观点和思维模型，即使可能你不喜欢他，也要定期查看一下</description>
     </item>
     
     <item>

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>工作思考技能 on 兔子公园的博客</title>
+    <link>//rouor.github.io/categories/%E5%B7%A5%E4%BD%9C%E6%80%9D%E8%80%83%E6%8A%80%E8%83%BD/</link>
+    <description>Recent content in 工作思考技能 on 兔子公园的博客</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-CN</language>
+    <lastBuildDate>Thu, 10 Sep 2020 14:10:55 +0800</lastBuildDate>
+    
+	<atom:link href="//rouor.github.io/categories/%E5%B7%A5%E4%BD%9C%E6%80%9D%E8%80%83%E6%8A%80%E8%83%BD/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Howtoknow_area</title>
+      <link>//rouor.github.io/post/howtoknow_area/</link>
+      <pubDate>Thu, 10 Sep 2020 14:10:55 +0800</pubDate>
+      
+      <guid>//rouor.github.io/post/howtoknow_area/</guid>
+      <description>如何短期内分析一个学科？ 了解一个领域至少需要三本书：教科书，前沿专著，流行读物。 借助google学术的h指数，某个学科领域中的top100科学家来快速掌握本领域的已有模型。 反常识点：抛弃按照主题检索的方式，而是建立对于一个学科的全局认识。同时不同学科也有不同侧重，比如计算机科学以</description>
+    </item>
+    
+    <item>
+      <title>如何了解一个行业</title>
+      <link>//rouor.github.io/post/%E5%A6%82%E4%BD%95%E4%BA%86%E8%A7%A3%E4%B8%80%E4%B8%AA%E8%A1%8C%E4%B8%9A/</link>
+      <pubDate>Wed, 09 Sep 2020 15:11:03 +0800</pubDate>
+      
+      <guid>//rouor.github.io/post/%E5%A6%82%E4%BD%95%E4%BA%86%E8%A7%A3%E4%B8%80%E4%B8%AA%E8%A1%8C%E4%B8%9A/</guid>
+      <description>重要因素 结构化的认识很重要。 对某领域建立全局认识——对某一领域论文看吐就能获得学者的品味。这就是全局认识。 为什么要系统化学习？ 因为碎片化时代，人的决策很容易被片面的跟风的，直线的信息和结论抓住我们注意力从而影响决策。投资决策时世界上最复杂的博弈：跟宏观趋势、市场波动博弈，跟交易对</description>
+    </item>
+    
+  </channel>
+</rss>
